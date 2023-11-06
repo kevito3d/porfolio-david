@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Casa 1",
+      "ubication": "Manta calle 11",
+      "image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/225167538.jpg?k=d035444b3e4054d83d32bbb4ec3734fac850c69b283a515464e542d0a0552d29&o=",
+      "characteristics": [
+        "3 dormitorios",
+        "2 baños",
+        "1 cocina",
+        "1 sala",
+        "1 comedor"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Casa 2",
+      "ubication": "Portoviejo calle 12",
+      "image": "https://img10.naventcdn.com/avisos/9/00/61/69/70/26/720x532/340406625.jpg",
+      "characteristics": [
+        "3 dormitorios",
+        "2 baños",
+        "1 cocina",
+        "1 sala",
+        "1 comedor"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Casa 3",
+      "ubication": "Sosote, calle San Roque",
+      "image": "https://q-xx.bstatic.com/xdata/images/hotel/max500/342738133.jpg?k=f0e960a8c678573f8a4156f8232051e68e9f6c0d1b2f35392ac0768118580bac&o=",
+      "characteristics": [
+        "3 dormitorios",
+        "2 baños",
+        "1 cocina",
+        "1 sala",
+        "1 comedor"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Casa 4",
+      "ubication": "Calle 4",
+      "image": "https://img10.naventcdn.com/avisos/9/00/61/69/70/26/720x532/340406625.jpg",
+      "characteristics": [
+        "3 dormitorios",
+        "2 baños",
+        "1 cocina",
+        "1 sala",
+        "1 comedor"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Casa 5",
+      "ubication": "Calle 5",
+      "image": "https://pics.nuroa.com/se_vende_casa_en_urbanizacion_altos_de_manta_beach_5300092677333698693.jpg",
+      "characteristics": [
+        "3 dormitorios",
+        "2 baños",
+        "1 cocina",
+        "1 sala",
+        "1 comedor"
+      ]
+    }
+  ]
+}

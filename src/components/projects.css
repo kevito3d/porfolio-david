@@ -1,0 +1,13 @@
+.projects__title{
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.proyectos__container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-auto-rows: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 2rem;
+}
